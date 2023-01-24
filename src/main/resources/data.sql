@@ -1,0 +1,1 @@
+INSERT INTO users (id, password, username, trials, locked) VALUES (1, '$2a$10$p1tNNfHsIXZjOkbhctNoneBJfuBKrsPk6YQyrcbMH2gXDTv8ANcbe', 'willythedev', 0, false);
